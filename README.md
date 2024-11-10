@@ -1,4 +1,3 @@
-# ReutShabi
 # Hello! 👋
 
 ## About Me
